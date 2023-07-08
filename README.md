@@ -8,6 +8,10 @@ This is a novel alignment-free computational method for sequence analysis based 
 # Algorithm
 Established an effective similarity measure of DNA sequences based on RFT. Perform RFT on DNA sequence after converting symbolic sequences to four binary indicator sequences. Euclidean distance is used to calculate the similarity of RFT coefficients. Conducte different DNA sequence mutants and assess the accuracy of the new RFT metric on the mutants. The similarity metrics is then evaluated by constructing phylogenetic trees of virus at gene levels.
 
+# Commands 
+Please run Main.m file on Matlab! Thank you!
+(Please run GetBacteriaData.m if you want to get bacteria data for testing the method!)
+
 # Results
 
 ![geno2](https://github.com/abhishek12071/Genocode/assets/92369178/46589975-afa6-4788-ac2d-d673ac184dc8)
